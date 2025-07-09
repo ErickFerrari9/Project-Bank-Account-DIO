@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
         java Main
         ```
 
-### 💻 Java Skills Used (Common for this type of project)
+### 💻 Java Skills Used 
 
 This project likely demonstrates several fundamental Java programming concepts and skills:
 
@@ -92,13 +92,9 @@ Para executar este projeto localmente, siga os passos abaixo:
         javac *.java
         java Main
         ```
-      * Se o projeto for em Python (menos provável, dadas as "habilidades em JV", mas possível para DIO), você executaria o arquivo Python principal:
-        ```bash
-        # Exemplo para Python
-        python main.py
-        ```
+    
 
-### 💻 Habilidades em Java Utilizadas (Comuns para este tipo de projeto)
+### 💻 Habilidades em Java Utilizadas 
 
 Este projeto provavelmente demonstra vários conceitos e habilidades fundamentais de programação Java:
 
